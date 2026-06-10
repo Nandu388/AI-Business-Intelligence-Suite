@@ -1,0 +1,101 @@
+Hotel_ID,Hotel_Name,City,State,Room_Type,Total_Rooms,Occupied_Rooms,Room_Price,Customer_Rating,Restaurant_Revenue,Spa_Revenue,Check_In_Count,Check_Out_Count,Manager_Name,Record_Date
+HOT0001,Dougherty Inc,Stephentown,Arkansas,Family,132,134,5595,3.2,137308,8804,209,182,Dr. Jessica Rodriguez DDS,2025-11-18
+HOT0002,Morris and Sons,East Joshuashire,Oklahoma,Executive,104,225,9657,4.8,173120,75008,23,211,Jane Harper,2025-09-24
+HOT0003,"Jacobs, Garcia and Miles",South Shannon,Iowa,Family,33,31,12530,3.6,131031,28819,35,143,Ronald Ross,2026-03-03
+HOT0004,Simmons-Ortega,Stephaniefort,California,Executive,187,64,9449,3.3,109385,41471,225,139,Bradley Reynolds,2026-03-08
+HOT0005,Cain-Hawkins,Elizabethchester,Minnesota,Standard,260,14,14272,3.8,101740,34389,45,30,Teresa Henderson,2026-05-10
+HOT0006,Schmitt PLC,Michaelshire,North Carolina,Standard,146,61,2333,4.1,72533,21544,252,68,Matthew Walker,2025-07-18
+HOT0007,"Richardson, Farmer and Andrews",Bruceside,Alaska,Family,131,129,13460,3.1,106703,26992,68,93,Mary Steele,2025-06-19
+HOT0008,Park-Parker,Michaelburgh,Georgia,Suite,75,158,2420,4.8,160941,93781,202,213,Jennifer Thomas,2026-01-26
+HOT0009,Davis PLC,South Robert,Michigan,Deluxe,58,161,13315,4.6,73661,18356,164,71,Eric Nguyen,2026-05-19
+HOT0010,"Miller, Williams and Moore",Lake Christophermouth,Texas,Family,41,98,10728,3.6,107142,14038,269,184,Lawrence Perry,2025-08-26
+HOT0011,"Wilson, Jordan and Campbell",Roseport,Arizona,Standard,235,220,10031,2.8,104945,88307,245,88,William Brown,2025-08-22
+HOT0012,Saunders LLC,Marktown,New York,Executive,110,197,10548,4.9,80800,85728,285,257,Casey James,2026-02-21
+HOT0013,"Hansen, Barnett and Gomez",Hensleyton,Nevada,Executive,243,221,13977,4.0,94490,37177,54,152,Thomas Atkins,2026-01-05
+HOT0014,"Sullivan, Bowman and Roberts",Smithmouth,Hawaii,Executive,144,202,9613,3.9,185161,54674,182,24,Lisa Collier,2026-05-11
+HOT0015,Kim Inc,South Brianna,North Dakota,Executive,186,56,9988,3.0,77725,49608,153,151,Seth Reese,2025-08-29
+HOT0016,Jones Ltd,New Williamstad,Minnesota,Family,25,142,5130,2.7,198763,58271,260,294,Sabrina Briggs,2025-09-03
+HOT0017,Scott and Sons,Port Katherine,California,Deluxe,263,175,13662,3.7,14520,17196,160,123,Raymond Snyder,2026-03-12
+HOT0018,"Cole, Glass and Cunningham",Michellemouth,Georgia,Executive,144,88,12878,4.0,134062,77544,281,186,John Welch,2026-03-27
+HOT0019,"Brown, Romero and Collins",Johnsonstad,Maine,Executive,189,100,13515,3.6,90379,37951,128,71,Sean Wyatt,2026-01-20
+HOT0020,"Cruz, Carpenter and Best",South Reginashire,Tennessee,Deluxe,181,40,14171,3.8,190922,29267,108,120,Larry Mason,2026-05-25
+HOT0021,Garcia-Nolan,Toniland,North Carolina,Executive,161,195,11659,4.9,147530,83222,154,61,Amanda Zimmerman,2026-06-06
+HOT0022,"Mills, Moore and Watson",Paulmouth,Utah,Deluxe,171,68,7912,2.9,13708,97801,283,74,Rachel Holland,2025-07-03
+HOT0023,Grant Group,Johnathanberg,Michigan,Suite,43,23,11066,3.2,43103,88606,261,62,Matthew Rangel,2025-09-30
+HOT0024,"Hale, Myers and Larson",West Angelicamouth,Florida,Standard,165,130,9843,3.6,58329,11734,139,254,Sandra Rodgers,2026-02-14
+HOT0025,"Davis, Santiago and Romero",West Kyleborough,Michigan,Standard,53,112,10056,2.7,175005,94974,37,87,Katelyn Perez,2025-07-29
+HOT0026,Phillips Inc,Lake Matthewberg,Rhode Island,Deluxe,175,31,6066,2.8,119097,84471,125,277,Christopher Guerra,2026-03-18
+HOT0027,Griffith Inc,Diazbury,New Hampshire,Executive,250,242,9253,3.2,164278,61207,166,40,Nicole Bowers,2025-09-02
+HOT0028,Collins Group,West Erika,Oregon,Family,70,205,5404,4.1,79375,91563,51,90,Mrs. Diane Reyes,2025-12-19
+HOT0029,Montoya PLC,Port John,Tennessee,Deluxe,108,151,3229,2.9,117090,64048,250,159,Mr. Timothy Dawson,2025-12-14
+HOT0030,Mitchell and Sons,Shannonhaven,Georgia,Standard,138,83,13582,3.2,129021,14329,129,145,Anna Lozano,2026-04-03
+HOT0031,Arias-Perry,Shawbury,Missouri,Family,121,118,3880,3.9,179773,24528,146,82,Jade Johnson DVM,2026-04-12
+HOT0032,"Rogers, Thomas and Johnson",Hortonberg,Wisconsin,Standard,50,52,14986,3.3,159214,42828,234,73,Joan Smith,2025-07-07
+HOT0033,Lewis-Hernandez,Rodriguezport,Kansas,Executive,175,189,8594,4.9,141195,75776,262,234,Anthony Barnes,2026-03-26
+HOT0034,Brown-Copeland,Carlsontown,South Dakota,Standard,40,237,9078,4.3,168259,37816,23,56,Dana Thomas,2025-11-13
+HOT0035,"Gomez, Duncan and Lopez",New Theresaland,North Dakota,Deluxe,30,205,13014,4.6,161059,10273,99,250,Rachel Romero,2025-06-16
+HOT0036,Williams-Hughes,Jontown,Minnesota,Family,246,244,6557,3.0,163440,62132,261,56,Haley Quinn,2026-01-24
+HOT0037,"Moss, Cook and Williams",Lisaburgh,Wyoming,Executive,198,114,7460,3.3,37420,26079,178,220,Veronica Mendoza,2025-08-14
+HOT0038,Brown Group,West Jamesborough,Arizona,Executive,167,179,8561,4.5,154204,9809,242,55,Eric Sanders,2026-04-03
+HOT0039,King-Mullins,West Michael,Wyoming,Suite,149,92,3899,4.9,115952,72449,10,287,Matthew Nelson,2026-03-28
+HOT0040,Preston-Paul,Morganburgh,New York,Executive,231,23,5073,3.8,173219,70338,236,36,Holly Salinas,2025-09-14
+HOT0041,Acosta Inc,Morrisonburgh,Ohio,Deluxe,156,150,4146,4.8,124849,96521,258,72,Brian Murphy,2025-09-25
+HOT0042,Morrison-Simmons,Bellton,Washington,Standard,142,191,4594,3.3,13584,77384,218,57,Heather Bolton,2025-09-17
+HOT0043,Jones Ltd,Coxburgh,Alaska,Deluxe,78,128,3924,4.1,50362,70323,159,270,Lawrence Harrington,2025-06-21
+HOT0044,Young Ltd,Michaelshire,Arizona,Suite,232,223,9905,5.0,73892,64871,292,84,Meghan Rush,2025-10-23
+HOT0045,Berry PLC,Raymondview,Kansas,Executive,117,245,11820,3.8,45784,14150,151,222,Allison Lopez,2025-12-15
+HOT0046,"Wilson, Hampton and Padilla",New Justin,New York,Suite,279,78,2042,3.2,88264,81931,260,86,Chad Jones,2025-08-11
+HOT0047,"Wallace, Miller and Fleming",Elizabethland,Oklahoma,Executive,295,133,7654,3.3,152456,54441,243,174,Stephanie York,2026-02-24
+HOT0048,"Little, Leon and Hicks",East Laurabury,New York,Deluxe,142,156,8274,3.1,117682,10720,172,252,Julian Wood,2026-03-30
+HOT0049,"Anderson, Henson and Jones",Keyfort,North Dakota,Executive,217,179,14982,4.6,49873,69923,28,74,Jason Andrews,2025-07-24
+HOT0050,Day-Cole,Davidside,South Dakota,Family,189,232,3644,4.7,125423,18069,279,243,Patricia Anderson,2025-12-10
+HOT0051,Guerra PLC,West Fred,Massachusetts,Standard,93,114,12727,4.9,29615,66537,145,183,Courtney Meza,2025-12-15
+HOT0052,Singleton-King,Davidport,South Carolina,Family,223,176,3315,4.6,186778,74942,204,172,Kathryn Jackson,2026-05-19
+HOT0053,Jackson PLC,Meganshire,Arizona,Executive,297,19,12116,2.7,175455,94705,157,126,Alyssa Williams,2026-01-29
+HOT0054,"Baker, Clark and Armstrong",South Pamelaside,Maine,Standard,242,35,14457,4.1,36347,63153,95,163,Elizabeth Sanchez,2026-03-31
+HOT0055,Evans-Jones,East Scottfort,New Jersey,Standard,43,93,2919,3.2,108262,61450,84,135,Lawrence Edwards,2026-02-26
+HOT0056,"Travis, Reed and Ross",Zacharyville,Massachusetts,Family,230,154,13170,4.5,54560,27946,50,205,Bryan Cole,2025-07-30
+HOT0057,Roberts Group,Wrightburgh,Massachusetts,Family,143,137,11554,2.9,130887,88611,140,245,Michelle Lee,2025-08-06
+HOT0058,"Owens, Koch and Jimenez",South Williambury,Indiana,Suite,24,240,9622,4.8,187631,76643,90,47,Amber Campbell,2026-01-13
+HOT0059,"Chambers, Mitchell and Smith",South Dennisview,Washington,Executive,196,160,6901,4.1,121230,95480,138,243,Jamie Williams,2025-06-27
+HOT0060,"Lee, Tran and Jones",Duranview,South Carolina,Suite,121,108,9916,2.8,109972,79963,193,161,Barbara Hester,2025-10-31
+HOT0061,Grant-Diaz,East Carrie,Montana,Suite,31,222,12784,3.5,12122,79177,35,264,Amber Taylor,2025-10-08
+HOT0062,Stone-Hernandez,West Sarah,Massachusetts,Suite,137,165,7772,3.0,59841,86381,138,80,William Stevenson,2025-09-26
+HOT0063,Romero-Hicks,Ericksonport,New Mexico,Standard,40,89,14920,3.6,161931,52823,77,56,Isabella Nunez,2026-06-02
+HOT0064,"Parker, Roach and Wiggins",New Thomasshire,Oregon,Suite,187,201,8807,2.9,44644,75701,197,281,Anthony Castillo,2025-12-17
+HOT0065,"Harvey, Randall and Hernandez",North Ashley,Vermont,Family,159,222,4695,3.1,136313,43684,183,68,Albert Edwards,2025-08-03
+HOT0066,"Harris, Shaw and Carr",Salaston,Virginia,Executive,58,46,14356,4.9,187294,99924,213,295,Daniel Nguyen,2026-02-06
+HOT0067,"Bennett, Frye and Stevens",Amyview,South Carolina,Suite,66,212,8464,2.5,150659,21199,242,198,Dr. Douglas Evans,2026-05-19
+HOT0068,Wise-Bush,Stewartstad,Oklahoma,Suite,215,220,12461,4.9,38402,93452,129,251,Rebecca Hill,2025-07-23
+HOT0069,"Daniels, Huang and Foster",Stephanieberg,Maine,Standard,187,244,11995,3.1,26571,88283,247,164,Tyler Miller,2026-05-13
+HOT0070,"Scott, Mendoza and Harris",Sarahview,Florida,Executive,79,45,2742,4.9,89787,69569,69,59,Patrick Allen,2025-06-27
+HOT0071,"Perez, Hall and Garcia",Jenniferville,Utah,Deluxe,295,44,8367,3.6,185763,96289,286,224,Abigail Pierce,2026-05-15
+HOT0072,Delgado-Gilmore,Woodsborough,Wisconsin,Family,99,236,8797,4.1,138279,85694,218,153,Erica Brewer,2026-05-07
+HOT0073,Pearson and Sons,East Robertburgh,Arizona,Standard,209,65,9264,3.6,71895,52537,60,198,Jennifer Simpson DVM,2026-05-27
+HOT0074,Mcdowell-Smith,West Justinside,North Dakota,Family,203,25,8523,3.2,42023,64600,56,118,Todd Rosales MD,2025-08-18
+HOT0075,Rivera Ltd,Wongburgh,Alabama,Family,30,22,14890,3.3,43010,79000,115,45,Rachel Bradley,2026-03-13
+HOT0076,Carr Ltd,Wilcoxhaven,Massachusetts,Family,126,160,5538,4.5,71079,48064,85,11,Michael Lopez,2025-07-30
+HOT0077,Boyle-Smith,Youngview,Michigan,Suite,94,43,10850,3.1,55743,19408,23,77,Nathan Smith,2026-02-03
+HOT0078,"Young, Contreras and Marshall",South Gina,Virginia,Standard,203,212,14917,3.1,94874,7068,99,145,Melissa Fowler,2026-05-19
+HOT0079,Mendez-Robinson,South Eric,West Virginia,Standard,84,199,8897,3.8,26661,67422,239,195,Jacqueline Miles DVM,2026-03-13
+HOT0080,"Petersen, Gill and Becker",New Seanstad,California,Family,75,125,10254,3.1,171246,10683,276,164,Ashley Poole,2026-05-05
+HOT0081,Armstrong and Sons,West Melissa,New Hampshire,Executive,35,25,9847,4.6,121745,94928,65,261,Daniel Aguilar,2025-07-12
+HOT0082,"Griffin, Brown and Anderson",Bryantton,Oklahoma,Executive,57,240,3323,3.3,48884,13609,74,150,Robert Cummings,2025-10-31
+HOT0083,Reese PLC,North Rodneyland,Ohio,Family,300,192,7327,3.5,166602,74541,160,242,Taylor Jones DVM,2025-06-20
+HOT0084,White-Taylor,Brooksfurt,New Hampshire,Family,240,35,14994,4.3,181629,90316,292,120,Susan Bennett,2026-02-13
+HOT0085,"Baxter, Anderson and Dalton",East Victoriafurt,North Dakota,Executive,251,237,5743,3.5,128882,57262,222,58,William Davenport,2026-03-12
+HOT0086,Ford-Ball,Patelbury,Kansas,Suite,238,90,12897,3.1,50013,95023,252,44,Christopher Lopez,2026-04-25
+HOT0087,Johnson Ltd,Mendeztown,Kansas,Standard,63,33,9075,2.7,107687,22054,294,40,Brian Johnson,2026-01-13
+HOT0088,"Brennan, Sanchez and Williams",Youngborough,Wisconsin,Family,188,181,4002,3.5,184415,60435,36,157,Amy Gordon,2025-09-22
+HOT0089,"Johnston, Ray and Barton",Joelberg,Texas,Family,179,100,3697,3.9,65768,25280,256,124,Jennifer Hill,2025-12-29
+HOT0090,"Hobbs, Buck and Garrett",Peterston,Minnesota,Standard,199,226,11113,3.4,83024,80248,125,229,Megan Floyd,2025-10-03
+HOT0091,Russell-Evans,Port Amanda,Kansas,Family,33,165,12777,4.6,80109,8794,102,149,Elizabeth Zimmerman,2026-03-30
+HOT0092,Hart Group,South John,Indiana,Suite,193,99,2100,3.0,47552,79228,215,45,Bob Cole,2025-10-22
+HOT0093,"Hardy, Lee and Adams",Port Charlesshire,Washington,Deluxe,35,33,14224,3.8,108617,60028,242,184,Claire Clark,2026-05-06
+HOT0094,Krueger-Smith,Lake David,Wisconsin,Deluxe,209,89,13822,3.3,158791,83148,53,36,David Munoz,2025-08-22
+HOT0095,Arnold LLC,Owensstad,Maryland,Deluxe,100,203,12122,2.6,31386,40665,236,227,Jose Crawford,2025-07-15
+HOT0096,"Harrison, Franco and Rocha",Lawrenceton,Oregon,Executive,246,116,6475,3.0,144308,19918,186,230,Natalie Smith,2025-12-28
+HOT0097,"Riley, Butler and Hernandez",Jerryshire,Kansas,Standard,165,183,13116,4.0,148132,92442,167,33,Mr. Michael Scott PhD,2026-05-28
+HOT0098,"Singh, Murray and Oconnor",Garyside,New York,Deluxe,222,163,2897,2.5,89015,32686,80,140,Steve Mooney,2026-05-25
+HOT0099,"Johnson, Bradford and Landry",Port Adamberg,South Dakota,Suite,187,40,2126,3.7,122893,28028,76,204,Michael Smith,2025-12-11
+HOT0100,Brown-Little,Hopkinstown,Alabama,Family,137,138,11154,4.6,102842,14447,213,31,Jennifer Smith,2026-02-28

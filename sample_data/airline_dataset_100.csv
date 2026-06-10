@@ -1,0 +1,101 @@
+Flight_ID,Airline_Name,Source_City,Destination_City,Flight_Class,Passenger_Count,Ticket_Price,Fuel_Cost,Flight_Duration_Hours,Baggage_Count,Crew_Count,Flight_Status,Delay_Minutes,Pilot_Name,Flight_Date
+FL0001,"Madden, Smith and Li",Drakeburgh,North Alicebury,Business,59,33130,90822,13.1,314,18,Cancelled,103,Joseph Ochoa,2025-09-14
+FL0002,Miller-Chung,Cunninghambury,Gabriellaland,First Class,263,21973,110384,6.7,186,10,Cancelled,117,Shannon Malone,2025-07-13
+FL0003,Bennett-Alvarez,Lake Georgefort,Newmanmouth,First Class,235,8775,278962,12.8,144,18,Cancelled,102,Shannon Davis,2025-12-19
+FL0004,Hall Ltd,Nelsonland,Rachelshire,First Class,90,28936,212673,11.4,133,15,On Time,19,Cassie Jefferson,2025-06-14
+FL0005,Matthews Ltd,Hickmanport,New John,First Class,108,37773,317361,3.7,417,16,Delayed,165,Jasmine Mosley,2025-10-08
+FL0006,"Taylor, Hinton and Ramsey",Brianchester,Port Charles,Economy,170,9737,126778,4.6,108,9,Cancelled,19,Lisa Larson,2026-05-29
+FL0007,Johnson-Nelson,Henrystad,Reynoldsshire,Economy,302,33405,445546,8.9,316,19,Cancelled,144,Angelica Montgomery,2026-03-28
+FL0008,"Jones, Adams and James",Lake Peter,Danieltown,First Class,215,44105,215747,3.1,54,20,Delayed,161,Jill Juarez,2025-07-16
+FL0009,Lopez Group,Garcialand,Angelamouth,Business,190,41759,79450,5.9,57,14,Delayed,115,Alexandria Gutierrez,2026-03-21
+FL0010,"Santana, Stein and Spence",Lake Oscar,West Kevin,Economy,79,27165,486048,5.0,350,7,Cancelled,152,Arthur Hamilton MD,2025-12-03
+FL0011,Ward and Sons,Wheelerborough,Rodriguezport,First Class,246,33324,354259,8.8,425,6,Delayed,146,James Skinner,2025-10-26
+FL0012,Alexander-Jordan,West Malik,South Leon,First Class,146,24071,367197,7.7,97,6,Delayed,26,Tracy Carter,2026-02-18
+FL0013,Faulkner-Casey,Nicholasfurt,Danielshire,Business,93,36066,388756,3.4,146,19,Delayed,134,Zachary White,2026-03-16
+FL0014,Benton Group,South Lauren,Port Melaniechester,First Class,131,26848,245481,13.9,218,18,Delayed,173,Brenda Turner,2025-09-09
+FL0015,Espinoza Group,South Vickifort,Fergusonchester,First Class,76,44345,389374,5.7,188,8,Cancelled,173,Rachel Ward,2026-05-02
+FL0016,"Wheeler, Rocha and Rodriguez",Lake Elizabeth,Lake Cheyenne,Business,195,19514,429444,12.9,484,9,Delayed,20,Maria Lucas,2026-05-28
+FL0017,Sheppard-Jordan,North Jonathanhaven,South Neil,First Class,122,25925,212650,14.5,377,17,On Time,152,Michael Vaughn,2025-08-03
+FL0018,Webb LLC,Knappland,Port Sheliaberg,First Class,93,23288,343036,6.3,425,15,On Time,171,Grant Mueller,2025-12-16
+FL0019,Alvarez-Kim,Floresport,Port Jennifertown,First Class,319,9124,388703,10.4,280,16,On Time,92,Maria Byrd,2025-08-08
+FL0020,"Sanchez, Thompson and Moore",Mullenbury,Sotoburgh,Business,142,17037,229166,14.3,268,11,On Time,35,Jessica Johnson,2026-01-19
+FL0021,Cole Group,Smithborough,West Karen,Economy,89,22385,492723,12.0,279,6,Cancelled,86,Amy Garcia,2026-04-24
+FL0022,Diaz and Sons,Wilsonfort,Candicefurt,First Class,117,42141,247509,3.2,112,10,Cancelled,112,Hannah Bruce,2026-01-20
+FL0023,"Mccarthy, Evans and Mendez",Lake Dennisville,West Daryl,Economy,260,26874,404608,11.1,247,14,Cancelled,114,Charles Price,2026-01-13
+FL0024,"Reyes, Lopez and Reid",New Garrett,Donaldmouth,Economy,323,18674,212250,14.5,421,20,On Time,94,Lisa Glenn,2026-05-23
+FL0025,Taylor-Ochoa,Ortizfort,Mckinneymouth,First Class,342,31874,292053,11.8,418,17,Cancelled,135,Bradley Johnson DDS,2025-09-23
+FL0026,Walker-Roberts,Cunninghamfort,New Dannyside,Business,132,16087,470090,9.5,466,13,On Time,164,Holly Carson,2025-06-24
+FL0027,"Alexander, Robinson and Coleman",West Nancy,South Joseland,Business,240,39342,103786,11.0,284,8,Delayed,21,Xavier Rowe,2025-09-03
+FL0028,"Matthews, Bell and Page",Martinberg,Port Jamie,Economy,189,32446,319144,3.1,243,7,On Time,115,Gregory Campbell,2025-12-23
+FL0029,Werner-Carter,Stephaniehaven,East Sydneychester,Business,63,30190,77921,6.6,211,12,Delayed,20,Wendy Camacho,2025-07-25
+FL0030,Wright Ltd,Mariafurt,Thomasview,Business,164,4847,217082,14.0,449,15,On Time,35,Jaime Jones,2026-03-26
+FL0031,Powell Ltd,Heatherstad,Clementsmouth,Economy,196,33962,414942,12.6,408,20,Delayed,157,Sheila Boone,2025-07-13
+FL0032,Reid-Terry,Port Amandaborough,Summersfort,Economy,90,4245,184177,4.0,96,18,On Time,73,Ronald Morgan,2026-01-06
+FL0033,"Phelps, Kramer and Shannon",North Corymouth,North Sarahburgh,Economy,204,10985,75034,4.3,347,19,On Time,28,Aaron Rubio,2025-08-22
+FL0034,"Blankenship, Khan and Turner",Clarencestad,Christopherburgh,Business,324,4077,381326,8.2,143,9,Delayed,109,Mario Barber,2026-03-12
+FL0035,Rios-Padilla,East Thomasberg,New Erin,Economy,230,18765,349192,6.8,360,7,Cancelled,92,Michael Montoya,2026-06-05
+FL0036,Benson-Woods,South Christopher,North Lawrenceport,Economy,319,38656,315985,12.0,279,5,Delayed,120,Raymond Mullins,2025-07-27
+FL0037,"Thomas, Moreno and Smith",South Michael,Lake Kaitlin,Economy,248,27464,182985,11.5,202,7,Delayed,61,Lisa Ramos,2025-08-27
+FL0038,Taylor Inc,Bellchester,Kyliebury,First Class,103,41135,435449,11.6,88,6,Delayed,139,Bradley Tran,2026-01-14
+FL0039,"Mitchell, Pugh and Johnson",Jamiehaven,Lake Peter,Business,139,47871,293596,14.7,265,10,On Time,16,Rachel Leon,2025-09-04
+FL0040,Rodriguez-Porter,New Pamelatown,Sarahberg,First Class,284,5423,203848,3.8,425,11,On Time,80,Ryan Fisher,2025-12-25
+FL0041,Farmer Inc,New Carlosview,North Sandra,Business,313,29098,477507,8.6,149,6,Cancelled,48,Jennifer Mitchell,2026-02-24
+FL0042,Henderson-Morales,West Christopher,New Samanthaberg,Business,232,6132,393792,5.6,83,16,Delayed,102,Jeanette Walters,2026-04-10
+FL0043,"Day, Collins and Kim",North John,Wilsonton,First Class,275,28339,227752,14.6,274,20,Delayed,132,Patrick Yang,2025-07-22
+FL0044,"Taylor, Smith and Crawford",Alexandraview,West David,Business,92,30820,91380,7.0,441,10,Cancelled,75,Debra Tanner,2026-03-18
+FL0045,Rogers Group,Alexandriaview,South Spencerstad,Business,102,8247,221924,10.3,176,19,Cancelled,109,Scott Jackson,2025-08-05
+FL0046,Shannon Ltd,East Joycetown,Port Michellebury,Economy,277,26038,284424,1.6,465,16,Cancelled,111,Jack Mora,2025-08-13
+FL0047,Tran Ltd,Walkerbury,Moonmouth,Business,79,7917,401893,9.9,206,10,On Time,36,Blake Watson,2025-12-09
+FL0048,White PLC,South Caseymouth,Kiaraport,First Class,274,5280,116180,1.9,418,16,Delayed,98,Juan Smith,2025-08-21
+FL0049,"Mueller, Stevenson and Sanchez",Brittanyfort,Lake Rachel,First Class,66,42655,130445,10.5,209,16,Delayed,19,Danielle Smith,2025-11-06
+FL0050,Weaver Ltd,West Aaronfurt,Daltonhaven,First Class,120,37698,242387,6.6,352,13,On Time,29,Mrs. Tonya Kaufman,2025-07-31
+FL0051,Davis-Morse,Haynesstad,Villegasland,Economy,145,35705,321447,6.4,307,8,Delayed,66,Kathy Walsh,2025-10-31
+FL0052,"Bradley, Graham and Brandt",West Jose,Sarafurt,First Class,278,17062,370799,5.0,489,20,On Time,31,Nancy Stewart,2025-09-16
+FL0053,Harding and Sons,East Danielmouth,Edwardsville,Economy,87,32625,140521,13.6,247,7,Cancelled,81,Traci Clark,2025-09-29
+FL0054,Phelps-Davis,Margaretton,Port Melissa,First Class,227,49500,84046,8.7,168,14,On Time,179,Michael Schmitt,2025-11-01
+FL0055,Byrd LLC,North Stephanie,Hawkinsside,First Class,139,26690,316734,4.1,122,9,On Time,126,Joel Lara,2025-07-30
+FL0056,Brown and Sons,East Madison,Ginaland,Economy,234,39308,350038,6.2,431,9,Cancelled,22,Deanna Hess,2025-06-16
+FL0057,Gonzalez Ltd,Lambland,Davidmouth,Economy,208,29093,425879,11.1,289,18,Delayed,147,Thomas Hamilton,2026-03-01
+FL0058,Johnson-Vega,West Jason,West Joshua,Economy,114,23776,386770,2.0,258,16,On Time,141,Amanda Harvey,2025-09-06
+FL0059,Porter-Andrade,Brownview,Taylorborough,First Class,350,14925,452538,14.5,241,6,On Time,132,Rebecca Wright,2026-06-07
+FL0060,"Norton, Mayo and Casey",Timothyfort,Robertahaven,Economy,205,13790,134917,5.5,383,12,Delayed,132,Devin Johnson,2026-01-13
+FL0061,Huang LLC,Port Victoriahaven,Katiebury,Business,90,19423,152918,9.9,302,13,On Time,160,Ariel Sandoval,2025-09-14
+FL0062,"Brown, Davies and Robinson",Kellyburgh,East Brittany,Business,323,9122,313493,10.0,323,9,On Time,168,Melissa Sloan,2025-06-19
+FL0063,"Bell, Bradley and Thomas",Port Vanessa,Weaverburgh,First Class,222,39937,71597,12.6,34,7,On Time,164,Brandon Hall II,2025-12-18
+FL0064,Rivera PLC,Port David,Port Megan,First Class,185,45672,160524,11.7,233,5,Delayed,160,Alex Willis,2026-05-10
+FL0065,Mathis LLC,West Janetfurt,West Kevinberg,First Class,198,45068,208384,7.8,432,17,Delayed,116,Morgan Kim,2026-01-28
+FL0066,Banks-Thompson,Jeffreyshire,South Kurt,Economy,80,13359,280479,6.8,257,11,Delayed,155,Bethany Daniel,2026-05-22
+FL0067,"Myers, Gamble and Sanford",East Carriebury,South Donaldland,Economy,210,23926,434932,14.8,196,17,On Time,94,William Jackson,2026-04-29
+FL0068,Underwood Ltd,Seanview,East Heather,First Class,337,9958,217308,4.4,82,13,Delayed,63,Richard Le,2025-06-26
+FL0069,Oconnor-Costa,Snyderfurt,Amyville,Economy,99,6316,202154,14.2,462,18,On Time,40,Rachel Lane,2026-03-13
+FL0070,Martin Inc,West Andrewview,North Matthewfurt,Business,345,23494,149527,11.7,275,19,Delayed,78,Benjamin Mcmahon,2026-06-01
+FL0071,Wheeler-Austin,Bushchester,New Pamela,Business,61,8901,256172,8.1,143,11,Cancelled,90,Brian Harris,2025-08-17
+FL0072,"Spencer, Frost and Fernandez",Kennethville,South Ashleyfort,Economy,75,21438,309467,9.4,451,20,Delayed,137,Isaac Patterson,2025-09-24
+FL0073,"Weber, Castillo and Davis",East Danielle,South Meganport,Economy,105,31241,120220,13.4,392,16,Delayed,93,Kaitlin Jacobson,2025-09-13
+FL0074,"Stephens, Lopez and Mcclure",Jacobton,Scottview,Economy,255,6352,348991,8.9,205,14,On Time,98,Derrick Brown,2026-03-11
+FL0075,"Davis, Barnett and Morton",Arellanoshire,New Bruce,First Class,280,39035,196654,12.6,339,8,On Time,24,Joseph Sheppard,2026-02-15
+FL0076,Armstrong-Young,Christianton,North Stacy,Business,241,25222,342464,14.1,406,9,On Time,154,Travis Jackson,2025-08-25
+FL0077,Martinez Group,Lake Ryanberg,Luisland,First Class,255,35773,71105,1.6,90,15,Delayed,132,Justin Arnold,2026-04-18
+FL0078,"Ellis, Marks and Buchanan",Rodriguezberg,New Brianna,Business,126,42731,320273,3.0,496,15,On Time,100,Teresa Buckley,2025-12-31
+FL0079,Floyd PLC,Natalieview,Penashire,First Class,203,41910,226356,8.1,280,20,Cancelled,144,Amanda Hill,2025-07-31
+FL0080,"Becker, Morales and Foster",Hannahton,Mccallstad,Business,293,4090,243125,5.6,76,18,Cancelled,78,Robert Turner,2025-09-19
+FL0081,Garrison-Cohen,East Kevin,Schroedermouth,First Class,63,42119,298821,4.7,355,12,Cancelled,13,Jason Brewer,2025-08-16
+FL0082,Mcintyre Group,Malonestad,New Laceyland,First Class,295,14174,324848,9.8,337,17,On Time,174,Jonathon Taylor,2026-04-16
+FL0083,"Johnson, Lee and Whitaker",East Antonioton,Janetview,Economy,66,40523,417274,2.5,29,19,Delayed,107,John Sanders,2026-05-12
+FL0084,"Johnson, Watson and Wheeler",Port Thomas,Maxview,Economy,261,48252,156897,6.7,416,20,Cancelled,15,Melissa Mitchell,2025-10-28
+FL0085,Nash and Sons,Lake Jeffrey,West Denise,First Class,120,36992,158706,8.9,359,20,Cancelled,96,Sharon Coffey,2026-02-13
+FL0086,Buck-Holland,East Johnnyport,Rodneyfurt,Business,138,33124,329512,5.8,201,13,Cancelled,123,Judy Robinson,2025-09-27
+FL0087,"Holloway, Sanders and Garcia",Annaport,Gabriellefort,Economy,176,21284,342598,5.2,172,14,Cancelled,53,William Davidson,2026-04-20
+FL0088,Douglas-Farley,Jacobhaven,North Linda,First Class,300,23777,301555,5.9,498,13,Delayed,31,Lindsay Guerrero,2026-02-13
+FL0089,"Johnson, Jimenez and Phillips",Sullivanton,West Jessica,First Class,328,27883,256848,12.5,415,9,Delayed,10,Joseph Glover,2026-05-06
+FL0090,"Howard, Evans and Jackson",West Connor,Lake Jonathan,Business,90,25699,281932,10.2,402,20,On Time,51,Pamela White,2026-02-12
+FL0091,Pena-Walker,Lake Monica,Frenchmouth,First Class,188,39832,414994,4.8,75,12,On Time,12,Kevin Ford,2025-07-22
+FL0092,Delacruz PLC,South Pamelahaven,Port Erinhaven,First Class,321,17789,384466,4.3,71,18,Delayed,120,Anthony Dickerson,2025-07-29
+FL0093,Cooper PLC,Thomasburgh,South Marvinburgh,Economy,120,3339,338543,14.7,100,18,Cancelled,121,Anthony Hayes,2025-08-24
+FL0094,Johnston and Sons,Gloverland,New Ryan,Business,152,21824,218384,5.0,50,7,Cancelled,146,Jeffrey Woods,2025-06-10
+FL0095,"Gonzalez, Watson and Smith",Katherinehaven,North Erica,Economy,323,5444,141784,6.9,448,10,On Time,101,Danielle Steele,2025-10-13
+FL0096,Garcia PLC,Garyton,Stacymouth,Business,145,21970,69643,1.1,310,8,Delayed,72,Linda Morgan,2026-04-29
+FL0097,Cooper Group,Karenburgh,Smithbury,Business,328,37361,308952,13.4,88,19,Delayed,49,Bonnie Gross,2026-01-10
+FL0098,Martinez Ltd,South Nancyview,New Virginiaville,Economy,219,13649,433317,7.4,151,10,On Time,86,Alicia Norris,2025-11-08
+FL0099,Martinez-King,East Heather,West Robertville,Business,340,47197,447034,3.7,332,17,Delayed,131,Debra Obrien,2025-07-29
+FL0100,Hunt PLC,West Danielville,Gonzalezborough,Business,94,29269,400882,2.3,91,20,Delayed,63,Sandra Dudley,2025-10-17

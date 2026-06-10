@@ -1,0 +1,101 @@
+Store_ID,Store_Name,Store_Type,Floor_Number,Daily_Visitors,Daily_Revenue,Employees,City,State,Manager_Name,Opening_Time,Closing_Time,Weekend_Sales,Parking_Slots,Record_Date
+MALL0001,"Rodriguez, Figueroa and Sanchez",Furniture,1,304,398786,40,Lake Curtis,West Virginia,Angie Henderson,10:00 AM,10:00 PM,306787,164,2025-06-19
+MALL0002,Hall PLC,Electronics,1,4567,55580,80,New Jamesside,Nebraska,Kevin Pacheco,10:00 AM,10:00 PM,492417,66,2025-06-11
+MALL0003,Wolfe LLC,Clothing,1,1891,131981,69,Ericmouth,Connecticut,Brent Abbott,10:00 AM,10:00 PM,681262,63,2026-01-15
+MALL0004,Blair PLC,Sports,2,4564,229949,33,South Christianport,South Dakota,Shannon Ray,10:00 AM,10:00 PM,521029,351,2026-02-21
+MALL0005,Stanley LLC,Food Court,1,1407,376026,59,Port Jesseville,Missouri,Mark Diaz,10:00 AM,10:00 PM,406778,192,2025-10-22
+MALL0006,Santiago Ltd,Electronics,2,2857,63587,16,New Cynthiaside,Washington,Joel Nelson,10:00 AM,10:00 PM,448382,99,2026-05-13
+MALL0007,"Hawkins, Cohen and Cameron",Food Court,3,2266,433167,10,East Lydiamouth,Montana,Daniel Hahn,10:00 AM,10:00 PM,531741,324,2026-04-25
+MALL0008,Lewis-Porter,Clothing,4,745,299428,42,Thomasberg,Kansas,Kimberly Burgess,10:00 AM,10:00 PM,698564,491,2025-11-12
+MALL0009,"Ross, Robinson and Bright",Food Court,5,1675,379398,13,Daviston,Delaware,Christopher Becker,10:00 AM,10:00 PM,98050,388,2026-01-13
+MALL0010,James-Ferrell,Electronics,3,753,458432,34,Tashatown,Utah,Melanie Herrera,10:00 AM,10:00 PM,155907,244,2025-09-14
+MALL0011,"Peterson, Carter and Moore",Food Court,4,3088,95277,52,Lake Nancyview,North Carolina,Katie Rodriguez,10:00 AM,10:00 PM,422528,157,2026-01-23
+MALL0012,"Romero, Gonzalez and Brooks",Furniture,3,684,329360,86,New Stephanie,North Dakota,Linda Burns,10:00 AM,10:00 PM,229451,323,2025-07-19
+MALL0013,Koch-Decker,Furniture,2,1438,252357,53,Johnbury,Oregon,Angelica Tucker,10:00 AM,10:00 PM,333060,377,2025-07-04
+MALL0014,"Cannon, Anderson and Alvarez",Furniture,5,1899,368935,46,West Allison,Rhode Island,Daniel Ryan,10:00 AM,10:00 PM,108655,167,2026-03-03
+MALL0015,Marquez Group,Clothing,3,3386,150373,13,Samuelhaven,New Hampshire,Danny Morgan,10:00 AM,10:00 PM,271231,340,2026-01-10
+MALL0016,Chapman Inc,Furniture,3,1841,353638,68,Lake Crystalbury,California,Shannon Jones,10:00 AM,10:00 PM,464850,379,2025-09-04
+MALL0017,"Washington, Ryan and Cummings",Cosmetics,2,2269,83206,36,Sanchezfort,Nebraska,Brent Jordan,10:00 AM,10:00 PM,638637,325,2025-11-11
+MALL0018,Shields-Brown,Food Court,5,3609,480717,79,North Richardmouth,Connecticut,Connor West,10:00 AM,10:00 PM,468801,235,2025-11-10
+MALL0019,Ford-Baxter,Electronics,2,4274,268744,16,South Lindseyside,Connecticut,Zachary Huff,10:00 AM,10:00 PM,99405,490,2026-05-29
+MALL0020,Martin Group,Clothing,2,1410,425277,92,Lewisfurt,Arkansas,Aaron Myers,10:00 AM,10:00 PM,492666,355,2026-05-14
+MALL0021,Mitchell-Horton,Clothing,4,3226,322417,64,Mooreport,Indiana,Lauren Daniels,10:00 AM,10:00 PM,604816,178,2026-03-09
+MALL0022,Williams Group,Sports,1,1038,367412,73,North Susan,Colorado,Andrea Jones,10:00 AM,10:00 PM,329786,443,2026-04-20
+MALL0023,Wilson-Zamora,Furniture,3,1013,163878,60,New Brooke,South Carolina,Matthew Cunningham,10:00 AM,10:00 PM,215840,282,2025-10-02
+MALL0024,Harris-Moran,Clothing,3,4200,409487,27,West Randy,Texas,Joyce Hickman,10:00 AM,10:00 PM,582342,104,2026-05-17
+MALL0025,Ellis PLC,Furniture,3,4258,329275,30,North Amandahaven,Kentucky,Gregory Jones,10:00 AM,10:00 PM,210263,241,2025-09-06
+MALL0026,Moore-Bass,Electronics,5,4444,491555,5,Cherylhaven,Alabama,Kristen Huynh,10:00 AM,10:00 PM,678038,215,2025-07-16
+MALL0027,Baker Inc,Cosmetics,1,1016,497115,51,West Juan,Indiana,Christina Walters,10:00 AM,10:00 PM,372451,172,2025-09-13
+MALL0028,King-Odonnell,Clothing,2,4747,51291,15,North Cynthiaview,Arizona,Ray Walsh,10:00 AM,10:00 PM,559597,467,2025-09-12
+MALL0029,"Ramos, Thornton and Hoffman",Clothing,5,1130,77314,89,North Sierraberg,Ohio,Jacob Tran,10:00 AM,10:00 PM,548369,331,2025-11-13
+MALL0030,Parker Inc,Electronics,3,4422,467406,82,Jasonbury,Texas,Richard Henson,10:00 AM,10:00 PM,493692,158,2025-11-04
+MALL0031,"Brady, Frost and Young",Sports,2,2653,219186,90,Port Lisa,Nebraska,Norman Cook,10:00 AM,10:00 PM,441559,274,2026-05-15
+MALL0032,"Shields, Cochran and Adams",Sports,4,1091,139973,33,South Monicafort,Iowa,Thomas Bailey,10:00 AM,10:00 PM,117136,223,2026-04-05
+MALL0033,Walker Ltd,Clothing,5,4637,130646,80,South Mark,California,Diana May,10:00 AM,10:00 PM,280914,53,2025-11-02
+MALL0034,"Rivera, Johnson and Wiley",Clothing,1,1975,45337,9,Gregoryview,Arizona,Jeffrey Chandler,10:00 AM,10:00 PM,396479,86,2025-10-01
+MALL0035,"Joyce, Wilson and Lam",Sports,2,2381,360737,67,West Bradley,Nevada,Timothy Ryan,10:00 AM,10:00 PM,274643,326,2026-02-27
+MALL0036,"Mclaughlin, Gonzalez and Reynolds",Electronics,5,4820,257815,36,Cindyville,Washington,Katie Estrada,10:00 AM,10:00 PM,545948,463,2025-10-06
+MALL0037,"Phillips, Martinez and Fisher",Cosmetics,2,872,60819,89,Byrdburgh,South Carolina,Jennifer Bass,10:00 AM,10:00 PM,501989,231,2025-09-28
+MALL0038,Jordan PLC,Cosmetics,4,3925,462899,98,Stevenmouth,Utah,John Santana,10:00 AM,10:00 PM,106802,394,2026-03-27
+MALL0039,Hopkins LLC,Furniture,1,596,221089,98,Clarencebury,Utah,Robert Hernandez,10:00 AM,10:00 PM,405784,459,2025-06-25
+MALL0040,Carr-Mack,Clothing,2,1669,109724,73,Perryshire,Illinois,Janet Ross,10:00 AM,10:00 PM,520405,121,2025-08-02
+MALL0041,"Smith, Potter and Carrillo",Cosmetics,2,2381,252550,36,Port Ronaldburgh,Vermont,Amber Wright,10:00 AM,10:00 PM,129046,276,2026-04-15
+MALL0042,Anderson-Marshall,Sports,1,514,351911,74,Stephaniemouth,South Carolina,Stephanie Simmons,10:00 AM,10:00 PM,65474,97,2026-05-06
+MALL0043,Merritt-Manning,Electronics,2,3429,264615,66,Colebury,South Dakota,Richard Washington,10:00 AM,10:00 PM,274130,492,2025-09-04
+MALL0044,Jones-Mitchell,Cosmetics,1,1448,208691,5,Matthewside,Colorado,David Benson,10:00 AM,10:00 PM,459386,185,2026-02-22
+MALL0045,Perry LLC,Cosmetics,3,3565,375214,98,Perryborough,Nebraska,Randy Shah,10:00 AM,10:00 PM,632765,388,2025-06-16
+MALL0046,"James, Smith and Bell",Furniture,4,1368,109561,42,Castanedachester,Ohio,Kimberly Morrison,10:00 AM,10:00 PM,278275,79,2025-08-28
+MALL0047,Nelson Group,Sports,5,599,402154,45,South Matthewfurt,Washington,John Anderson,10:00 AM,10:00 PM,109942,75,2026-01-22
+MALL0048,Meadows PLC,Sports,4,4219,492023,72,North Dawnberg,New Jersey,David Murphy,10:00 AM,10:00 PM,215080,79,2025-11-22
+MALL0049,Juarez-Gray,Sports,1,1622,45924,81,Kingland,New Mexico,Joshua Cooke,10:00 AM,10:00 PM,121262,395,2025-10-15
+MALL0050,"Jones, Bernard and Williams",Electronics,4,1082,476766,77,East Jamestown,South Carolina,Cameron Caldwell,10:00 AM,10:00 PM,308175,346,2026-01-01
+MALL0051,Marshall LLC,Sports,1,771,229794,89,Garyville,Wyoming,Traci Rodriguez,10:00 AM,10:00 PM,662024,339,2025-06-18
+MALL0052,Johnston-Odonnell,Sports,3,2236,117090,90,Sandersborough,California,Sandra Sanchez,10:00 AM,10:00 PM,379445,172,2026-02-19
+MALL0053,Jefferson-Burke,Food Court,4,1172,362159,87,Port Tonyaton,Minnesota,Mary Jones,10:00 AM,10:00 PM,364569,284,2026-02-01
+MALL0054,Atkinson Group,Food Court,1,176,250273,84,South Susanmouth,Virginia,Christopher Boyd,10:00 AM,10:00 PM,640341,101,2026-02-02
+MALL0055,"Morton, Medina and Webb",Clothing,5,1846,275229,38,Petersenshire,Louisiana,David Michael,10:00 AM,10:00 PM,188890,228,2025-09-19
+MALL0056,Sanchez-Marshall,Clothing,2,3127,159415,25,Rogersfort,Massachusetts,Daniel Salinas,10:00 AM,10:00 PM,509469,476,2025-10-11
+MALL0057,"Haynes, Hill and Smith",Sports,3,4433,14101,90,North John,Nebraska,Peter Vaughn DDS,10:00 AM,10:00 PM,631542,203,2025-12-05
+MALL0058,Davis and Sons,Furniture,1,1200,148656,19,Holtport,Texas,Kara Schmidt,10:00 AM,10:00 PM,162235,430,2025-11-11
+MALL0059,"Pierce, Bell and Chavez",Sports,2,2331,157721,82,Johnville,Washington,Bryan Herrera,10:00 AM,10:00 PM,270861,417,2026-03-14
+MALL0060,Lee Ltd,Food Court,2,2262,274979,67,Hillshire,Wisconsin,Diane Garcia,10:00 AM,10:00 PM,313319,483,2025-08-19
+MALL0061,Ward LLC,Clothing,1,3569,444817,40,Lake Amandaview,Arizona,Kristen Terry,10:00 AM,10:00 PM,96228,51,2025-07-25
+MALL0062,Garcia-Smith,Food Court,2,2245,94715,99,Taylormouth,Michigan,Anthony Everett,10:00 AM,10:00 PM,513298,332,2025-11-30
+MALL0063,Morales Inc,Furniture,4,4694,15069,19,East Edwardshire,Maryland,David Grant,10:00 AM,10:00 PM,128898,403,2025-11-08
+MALL0064,"Gibbs, Perez and Mills",Electronics,5,395,447568,52,Kerrport,Pennsylvania,Elizabeth Oliver DDS,10:00 AM,10:00 PM,660805,332,2026-03-06
+MALL0065,Garrett LLC,Electronics,4,1144,31930,44,East Johnside,California,Jason Norris,10:00 AM,10:00 PM,432364,457,2025-11-27
+MALL0066,Hall Ltd,Clothing,3,1820,367599,36,Jacquelinemouth,California,Tammy French,10:00 AM,10:00 PM,157786,231,2026-01-23
+MALL0067,"Lara, Gonzalez and Wilson",Sports,4,1366,495366,35,Lake Edward,Louisiana,Andrea Martin,10:00 AM,10:00 PM,220395,459,2025-09-29
+MALL0068,"Holloway, Morse and Gonzales",Electronics,4,303,104036,99,Barkerfurt,Louisiana,Katherine Miller,10:00 AM,10:00 PM,398321,450,2025-06-23
+MALL0069,Navarro-Munoz,Cosmetics,2,2285,93465,94,North Jeremyshire,Pennsylvania,Yvonne Chambers,10:00 AM,10:00 PM,163346,245,2025-09-15
+MALL0070,Hines and Sons,Clothing,4,1922,114633,63,Stonemouth,Louisiana,Kevin Walters,10:00 AM,10:00 PM,416643,206,2025-12-05
+MALL0071,Harrison Group,Electronics,2,293,356047,29,Manuelville,Hawaii,Michael Roberts,10:00 AM,10:00 PM,467821,218,2026-05-20
+MALL0072,"Johnson, Miller and King",Food Court,1,2386,194101,87,Port Richardhaven,Alabama,Kimberly Gutierrez,10:00 AM,10:00 PM,584150,254,2025-08-16
+MALL0073,Dean-Jimenez,Furniture,5,2812,24470,19,Wolfborough,Louisiana,Tanya Kim,10:00 AM,10:00 PM,323903,141,2026-02-19
+MALL0074,Johnson Ltd,Sports,3,413,66834,81,Lake Eric,Oklahoma,Jason Walker,10:00 AM,10:00 PM,505673,226,2026-04-12
+MALL0075,Murray Inc,Furniture,3,3674,327828,70,South Sarah,Maine,Denise Davenport,10:00 AM,10:00 PM,171263,247,2026-06-02
+MALL0076,Bryant and Sons,Sports,2,2186,33271,95,Leehaven,West Virginia,Sharon Hill,10:00 AM,10:00 PM,507239,50,2026-03-25
+MALL0077,Morgan-French,Sports,5,1714,200956,60,Loriport,Washington,Kevin Duarte,10:00 AM,10:00 PM,123372,390,2025-12-05
+MALL0078,Griffin Group,Food Court,5,2671,357806,20,Martinside,Missouri,Frank Lopez,10:00 AM,10:00 PM,364910,309,2026-02-19
+MALL0079,"Reyes, Chase and Jenkins",Food Court,4,2772,220973,94,Juliefurt,Missouri,Rebecca Pearson MD,10:00 AM,10:00 PM,360016,333,2026-05-28
+MALL0080,Shaw PLC,Electronics,2,3544,358614,53,Mollymouth,Connecticut,Joyce Bowen,10:00 AM,10:00 PM,232480,365,2025-11-06
+MALL0081,"Booker, Jones and Harrington",Sports,3,3426,297276,5,Matthewfurt,Tennessee,Gary Craig,10:00 AM,10:00 PM,368635,196,2025-12-21
+MALL0082,Sims-Clay,Electronics,4,4851,328065,88,Brennanton,South Carolina,Mark Mccall,10:00 AM,10:00 PM,387902,288,2026-06-09
+MALL0083,"Davis, Good and Hodges",Cosmetics,4,1850,278002,65,South Garrettport,Alaska,Robert Carter,10:00 AM,10:00 PM,227934,387,2025-10-24
+MALL0084,Sanchez Group,Clothing,3,4322,358050,86,East Gregory,South Carolina,Lisa Allen,10:00 AM,10:00 PM,699342,221,2026-05-09
+MALL0085,Hall Ltd,Clothing,2,2642,127776,30,Stevetown,New Jersey,Megan Moore,10:00 AM,10:00 PM,204511,62,2025-11-17
+MALL0086,Huerta-Evans,Clothing,2,3992,330483,14,Vaughnmouth,Maryland,James Webb,10:00 AM,10:00 PM,527538,262,2025-09-03
+MALL0087,"Howard, Phillips and Lyons",Furniture,5,1692,386620,94,Port Dominiqueview,Alabama,Melissa Garner,10:00 AM,10:00 PM,452630,303,2025-06-26
+MALL0088,"Mcgee, Wall and Leach",Cosmetics,2,1308,353963,93,New Laurie,Iowa,Lisa Byrd,10:00 AM,10:00 PM,55814,434,2026-02-27
+MALL0089,"Becker, Taylor and Davis",Clothing,4,1892,102215,94,West Kristinaton,Pennsylvania,Carlos Browning,10:00 AM,10:00 PM,593118,287,2025-10-06
+MALL0090,Thompson-Anderson,Clothing,5,2141,491018,20,Alyssaview,Hawaii,Roger Olson,10:00 AM,10:00 PM,528634,118,2026-03-31
+MALL0091,"Harrell, Brock and Mcdonald",Cosmetics,5,4678,322188,45,East Karenbury,Utah,Veronica Coffey,10:00 AM,10:00 PM,514071,363,2026-03-30
+MALL0092,Davis-Foster,Furniture,5,3595,445457,75,Amandamouth,Mississippi,Megan Richards,10:00 AM,10:00 PM,517574,131,2026-04-06
+MALL0093,Rodriguez-Hall,Furniture,4,3786,145891,36,New Nicoleside,Massachusetts,Connie Brown,10:00 AM,10:00 PM,340782,442,2026-04-06
+MALL0094,"Turner, Ortiz and Taylor",Sports,4,2059,153968,61,West Wendyville,Connecticut,Joshua Price,10:00 AM,10:00 PM,131247,415,2025-10-22
+MALL0095,"Horton, Fernandez and Matthews",Food Court,2,2325,186080,45,South Diana,New York,Teresa Ramirez,10:00 AM,10:00 PM,616390,91,2026-02-16
+MALL0096,Ramos and Sons,Electronics,2,1994,210820,93,Corystad,Ohio,Maria Brown,10:00 AM,10:00 PM,210227,411,2025-09-17
+MALL0097,Rush Group,Electronics,1,3498,223699,47,Lake Jasontown,Arkansas,Dana Martinez,10:00 AM,10:00 PM,618969,288,2026-01-01
+MALL0098,Gallegos PLC,Cosmetics,1,1794,446674,58,New Jason,Iowa,Charles Lester,10:00 AM,10:00 PM,458396,444,2025-06-10
+MALL0099,Huerta PLC,Sports,1,4816,209429,66,Laurenville,Texas,Bonnie Howard,10:00 AM,10:00 PM,56182,230,2026-03-24
+MALL0100,"Morris, Thompson and Williams",Food Court,4,3532,292182,100,Foxland,New Mexico,Ivan Wheeler,10:00 AM,10:00 PM,622661,459,2025-11-21
