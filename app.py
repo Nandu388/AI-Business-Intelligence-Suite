@@ -44,6 +44,26 @@ MAIN APP
 }
 
 /* =====================================================
+PAGE ANIMATION
+===================================================== */
+
+@keyframes pageFade {
+
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.main .block-container {
+
+    animation: pageFade 0.6s ease;
+}
+
+/* =====================================================
 SIDEBAR
 ===================================================== */
 
@@ -68,11 +88,41 @@ SIDEBAR
     border-radius: 12px;
 
     margin-bottom: 8px;
+
+    transition:
+        transform 0.2s ease,
+        background 0.2s ease;
+}
+
+[data-testid="stSidebarNav"] a:hover {
+
+    transform: translateX(6px);
+
+    background: rgba(139,92,246,0.12);
 }
 
 /* =====================================================
 TITLE
 ===================================================== */
+
+@keyframes titleReveal {
+
+    from {
+
+        opacity: 0;
+
+        transform:
+        translateY(-12px);
+    }
+
+    to {
+
+        opacity: 1;
+
+        transform:
+        translateY(0);
+    }
+}
 
 .main-title {
 
@@ -89,6 +139,9 @@ TITLE
     -webkit-background-clip: text;
 
     -webkit-text-fill-color: transparent;
+
+    animation:
+        titleReveal 0.8s ease;
 }
 
 .subtitle {
@@ -100,6 +153,29 @@ TITLE
     margin-top: -10px;
 
     margin-bottom: 35px;
+}
+
+/* =====================================================
+CARD ENTRY
+===================================================== */
+
+@keyframes cardReveal {
+
+    from {
+
+        opacity: 0;
+
+        transform:
+        translateY(25px);
+    }
+
+    to {
+
+        opacity: 1;
+
+        transform:
+        translateY(0);
+    }
 }
 
 /* =====================================================
@@ -122,6 +198,27 @@ CARDS
         0 8px 32px rgba(0,0,0,0.35);
 
     height: 210px;
+
+    animation:
+        cardReveal 0.6s ease;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease;
+}
+
+.metric-card:hover {
+
+    transform:
+        translateY(-8px);
+
+    border-color:
+        rgba(139,92,246,0.35);
+
+    box-shadow:
+        0 20px 40px rgba(0,0,0,0.45),
+        0 0 20px rgba(139,92,246,0.08);
 }
 
 /* =====================================================
@@ -133,10 +230,20 @@ ICON
     font-size: 2.7rem;
 
     margin-bottom: 15px;
+
+    transition:
+        transform 0.3s ease;
+}
+
+.metric-card:hover .card-icon {
+
+    transform:
+        scale(1.12)
+        translateY(-3px);
 }
 
 /* =====================================================
-TITLE
+CARD TITLE
 ===================================================== */
 
 .card-title {
@@ -151,7 +258,7 @@ TITLE
 }
 
 /* =====================================================
-DESC
+CARD DESC
 ===================================================== */
 
 .card-desc {
@@ -184,6 +291,19 @@ BUTTONS
     padding: 0.7rem 1.6rem;
 
     font-weight: 700;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
+}
+
+.stButton > button:hover {
+
+    transform:
+        translateY(-2px);
+
+    box-shadow:
+        0 10px 25px rgba(139,92,246,0.25);
 }
 
 /* =====================================================
@@ -202,6 +322,19 @@ METRICS
 
     box-shadow:
         0 6px 25px rgba(0,0,0,0.25);
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
+}
+
+[data-testid="metric-container"]:hover {
+
+    transform:
+        translateY(-4px);
+
+    box-shadow:
+        0 12px 25px rgba(0,0,0,0.30);
 }
 
 /* =====================================================
@@ -211,6 +344,9 @@ INFO BOXES
 .stAlert {
 
     border-radius: 16px;
+
+    animation:
+        cardReveal 0.6s ease;
 }
 
 </style>
